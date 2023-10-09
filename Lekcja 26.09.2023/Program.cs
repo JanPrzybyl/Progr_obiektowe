@@ -47,7 +47,6 @@ class Program
 
         // UNICODE (strona do ascii - asciitable.com)
         System.Console.WriteLine("Unicode");
-        // Kodowanie powinno dzialac - windows, na linuxie ma lekki problem
         Console.OutputEncoding = System.Text.Encoding.Unicode;
         System.Console.WriteLine("♥");
         Console.OutputEncoding = System.Text.Encoding.Default;
