@@ -10,24 +10,24 @@ class Program
         * Typy danych - ile bitow
         
         * int 16, 32, 64
-        * byte 0-255 - (8 bitow => 1 bajt)
+        * byte 0 - 255 (8 bitow => 1 bajt)
         * sbyte -128 do 127 (8 bitow => 1 bajt)
-        * short -32768 do 32767 (16 bitow => 2 bajty)
-        * ushort 0 do 65535 (16 bitow => 2 bajty)
+        * short -32 768 do 32 767 (16 bitow => 2 bajty)
+        * ushort 0 do 65 535 (16 bitow => 2 bajty)
         * int -2 147 483 648 do 2 147 483 647 (32 bity => 4 bajty)
         * uint 0 - 4 294 967 295 (32 bity => 4 bajty)
 
         * Na kartowke long jest niepotrzebny
-        * long -9223372036854775808 do 9223372036854775807 (64 bity => 8 bajtow)
-        * ulong 0 do 18 446 744 073 709 551 615(64 bity => 8 bajtów, 18 trylionów)
+        * long -9 223 372 036 854 775 808 do 9 223 372 036 854 775 807 (64 bity => 8 bajtow)
+        * ulong 0 do 18 446 744 073 709 551 615(64 bity => 8 bajtow, 18 trylionow)
         *
         * bool (true or false) - ile bitów/bajtów
         * char U+0000 do U+FFFF (16 bitowy znak z tablicy unicode)
         * string ?
         *
-        * float -3,4 * 10^38 do 3,4 * 10^38 (32 bajty => 4 bity)
+        * float -3,4 * 10^38 do 3,4 * 10^38 (32 bity => 4 bajty)
         * double (64 bity => 8 bajtow)
-        * decimal (128 bitów => 16 bajtów)
+        * decimal (128 bitów => 16 bajtow)
         */
 
         int i; //deklaracja zmiennej
