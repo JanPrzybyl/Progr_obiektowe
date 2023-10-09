@@ -1,0 +1,14 @@
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/bin/Debug/net7.0/Progr_obiektowe
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/bin/Debug/net7.0/Progr_obiektowe.deps.json
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/bin/Debug/net7.0/Progr_obiektowe.runtimeconfig.json
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/bin/Debug/net7.0/Progr_obiektowe.dll
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/bin/Debug/net7.0/Progr_obiektowe.pdb
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.AssemblyInfoInputs.cache
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.AssemblyInfo.cs
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.csproj.CoreCompileInputs.cache
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.dll
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/refint/Progr_obiektowe.dll
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.pdb
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/Progr_obiektowe.genruntimeconfig.cache
+/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/Debug/net7.0/ref/Progr_obiektowe.dll

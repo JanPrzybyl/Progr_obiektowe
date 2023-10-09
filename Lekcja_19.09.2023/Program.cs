@@ -37,7 +37,7 @@ class Program
 
         System.Int32 i2 = 100;
 
-        Console.WriteLine("Zmienna i1 wynosi:  {0}, zmienna i2 wynosi:  {1}", i1, i2);
+        Console.WriteLine("Zmienna i1 wynosi: {0}, zmienna i2 wynosi: {1}", i1, i2);
         Console.WriteLine($"Zmienna i1 wynosi: {i1}, zmienna i2 wynosi: {i2}");
 
         // byte b = 10;

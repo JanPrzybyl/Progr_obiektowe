@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jan/Szkola/Progr_obiektowe/Progr_obiektowe.csproj",
+      "projectUniqueName": "/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/Progr_obiektowe.csproj",
       "projectName": "Progr_obiektowe",
-      "projectPath": "/home/jan/Szkola/Progr_obiektowe/Progr_obiektowe.csproj",
+      "projectPath": "/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/Progr_obiektowe.csproj",
       "packagesPath": "/home/jan/.nuget/packages/",
-      "outputPath": "/home/jan/Szkola/Progr_obiektowe/obj/",
+      "outputPath": "/home/jan/Repozytoria/Progr_obiektowe/Lekcja_19.09.2023/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jan/.nuget/NuGet/NuGet.Config"
