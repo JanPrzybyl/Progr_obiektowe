@@ -40,24 +40,24 @@ class Program
         Console.WriteLine("Zmienna i1 wynosi:  {0}, zmienna i2 wynosi:  {1}", i1, i2);
         Console.WriteLine($"Zmienna i1 wynosi: {i1}, zmienna i2 wynosi: {i2}");
 
-        byte b = 10;
-        sbyte sb = -10;
-        short s = -20000;
+        // byte b = 10;
+        // sbyte sb = -10;
+        // short s = -20000;
 
-        // Wszystkie zapisy oznaczaja to samo
-        int incior = 2200000;
-        Int32 takiInt = 10;
-        System.Int32 jeszczeInny = 299;
+        // // Wszystkie zapisy oznaczaja to samo
+        // int incior = 2200000;
+        // Int32 takiInt = 10;
+        // System.Int32 jeszczeInny = 299;
 
-        long l = -10L; //suffix L
-        ulong ul = 10UL; // suffix UL
+        // long l = -10L; //suffix L
+        // ulong ul = 10UL; // suffix UL
         
-        Console.WriteLine("Zmienna l: {0}, zmienna ul: {1}", l, ul);
+        // Console.WriteLine("Zmienna l: {0}, zmienna ul: {1}", l, ul);
 
-        float f = 10.5F; // suffix F
+        // float f = 10.5F; // suffix F
         
         
 
-        Console.ReadKey();
+        // Console.ReadKey();
     }
 }
