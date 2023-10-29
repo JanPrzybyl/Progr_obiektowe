@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         bool flaga = false;
+        
         do
         {
             try
@@ -23,6 +24,7 @@ class Program
                 Console.ForegroundColor = ConsoleColor.Green;
                 System.Console.WriteLine($"{result:F3}");
                 Console.ResetColor();
+                flaga = true;
             }
             catch (DivideByZeroException)
             {
@@ -40,8 +42,7 @@ class Program
             {
                 ErrorColorChange(ex.Message);
             }
-        flaga = true;
-        }
+        } while (!flaga);
     }
 
     static void ErrorColorChange(string comment)
